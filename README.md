@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # claude-dash
 
 Real-time terminal dashboard for Claude Code sessions — htop for Claude.
