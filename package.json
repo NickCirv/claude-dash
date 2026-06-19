@@ -8,7 +8,8 @@
   },
   "scripts": {
     "start": "node bin/dash.js",
-    "dev": "node --watch bin/dash.js"
+    "dev": "node --watch bin/dash.js",
+    "test": "node --test"
   },
   "keywords": ["claude", "claude-code", "terminal", "dashboard", "tui", "ai"],
   "author": "NickCirv",
